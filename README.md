@@ -19,5 +19,5 @@ TASK-CLI it's a Command Line interface it has the goal to create, update, delete
   - list --options
     - options: todo; in-progress; done
    
-[https://github.com/jaimenunes/task-tracer
+[project URL
 ](https://roadmap.sh/projects/task-tracker)
